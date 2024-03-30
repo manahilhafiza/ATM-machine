@@ -1,0 +1,21 @@
+{
+  "name": "code-with-manahil-atm-machine",
+  "version": "1.0.01",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "dependencies": {
+    "inquirer": "^9.2.16",
+    "tslib": "^2.6.2",
+    "undici-types": "^5.26.5"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
